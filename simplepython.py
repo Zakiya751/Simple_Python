@@ -3,7 +3,7 @@ a = 1
 b = 4
 c = a + b
 print("sum",c)
-for i in c:
+for i in range(c):
   {
     print (c)
   }
